@@ -22,7 +22,11 @@ https://steemit.com/monero/@amustafa/recovering-an-incomplete-monero-mnemonic-wa
 ###Donations
 
 ETH: 0x1819c59cA38366A193C8fa02170F254fc9e942E0
+
 BTC: 16zRJPnpXiGrNEN3L27nFfrqN239WGyKFb
+
 XMR: 48TZ91tfy7w2LVcRape2dPfqchMgkjizm8Ukpr31cHRMgFHkM5DjwPxahs1zby5fQHeAXinhT4U4x8ygEK4zq1gq2A6G4Hy
+
 DASH: Xm6MBLdnaafZkGS4ZETtjHq1C5toQuHm7Y
+
 LTC: LhbiUiXs8HBybqfNkmHFienvBxtoWaebsX

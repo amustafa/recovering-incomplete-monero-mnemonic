@@ -7,7 +7,7 @@ This was used to recover the funds from the steemit post linked above. The post 
 > During Christmas in 2014, I made Monero wallets as stocking stuffers. Each wallet had a 100 monero in it ($25 at the time, now about $180). I'm not the most detailed orientated person, so needless to say, I forgot a word on one of the wallets. I never gave it away--figuring it would make a nice prize for someone with free time and a dictionary hack.
 
 ## How to use
-1. Enter your incomplete mnemonic into the conf.ini file and change any other settings to fit your nedes.
+1. Enter your incomplete mnemonic into the conf.ini file and change any other settings to fit your needs.
 2. Run discover_mnemonics.py
 3. Take the resulting discovered_seeds json object in the output folder and insert it into myMoneroKeyGeneratorScript.js
 4. Open mymonero.com, open the developer tools ([in Chrome](https://developers.google.com/web/tools/chrome-devtools/?hl=en))

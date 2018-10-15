@@ -10,7 +10,7 @@ This was used to recover the funds from the steemit post linked above. The post 
 Note: Instruction only tested on Ubuntu
 
 1. Clone repo
-2. pip install -r requirements.txt
+2. Run `pip install -r requirements.txt`
 3. Add [firefox webdriver for selenium](https://github.com/mozilla/geckodriver/releases) to the path.
 
 
